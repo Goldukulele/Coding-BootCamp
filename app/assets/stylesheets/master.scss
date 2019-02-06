@@ -42,6 +42,7 @@
   border-bottom: 1px solid #dfdfdf;
   font-family: 'source_sans_proextralight', sans-serif;
   font-weight: bold;
+  padding-right: 25px;
 }
 
 header {
@@ -74,4 +75,8 @@ h2 {
   font-style: italic;
   text-align: right;
   font-size: 10px;
+}
+
+.logo:hover {
+  text-decoration: none;
 }
